@@ -1,0 +1,31 @@
+p{ 
+    color:rgb(44, 37, 37)
+}
+
+a.joeylink {
+    padding: 0px 20px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 20px;
+    color: pink;
+
+}
+
+a.joeylink:hover {
+    background-color: pink;
+    color: white;
+    border: 2px solid rgb(158, 39, 94);
+  
+
+}
+
+div.joeypink{
+    background-color: pink;
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid rgb(247, 141, 159);
+    margin: 10px 0px;
+}
+
+.joey-pinkcolor{
+    color:pink
+}
